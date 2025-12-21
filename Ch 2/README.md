@@ -80,6 +80,8 @@ Leading tone in the next-to-last measure:
 1. On the whole note, or  
 2. On the second half note  
   
+No tying or repeating notes in general (the more possibilities in 2nd species make them no longer necessary)
+
 (In minor) submediant before leading tone: must be raise as well  
   
 At least one subsidiary high point before / after the climax  
